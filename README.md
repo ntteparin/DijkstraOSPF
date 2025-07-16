@@ -1,2 +1,2 @@
 # DijkstraOSPF
-CSE 151 Final Project
+Learn how Dijkstra's algorithm works in OSPF
